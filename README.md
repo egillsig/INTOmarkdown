@@ -21,15 +21,15 @@ Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögð
 Egill:
 
 Chromium 
-BSD license, MIT License, LGPL, MS-PL and MPL/GPL/LGPL tri-licensed code, plus unlicensed files.[2] (skv. wikipedia)
+BSD license, MIT License, LGPL, MS-PL and MPL/GPL/LGPL tri-licensed code, plus unlicensed files (skv. wikipedia)
 http://www.chromium.org/developers/how-tos/get-the-code
 
 Vim
 GPL leyfi
 http://www.vim.org/sources.php
 
-clang
-University of Illinois/NCSA Open Source License[1]
+Clang
+University of Illinois/NCSA Open Source License
 http://llvm.org/releases/download.html
 
 ## 5. Unnið með Git (2. hluti)
