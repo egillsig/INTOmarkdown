@@ -18,7 +18,19 @@ Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögð
 
 ## 4. Uppsettur hugbúnaður
 
-Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
+Egill:
+
+Chromium 
+BSD license, MIT License, LGPL, MS-PL and MPL/GPL/LGPL tri-licensed code, plus unlicensed files.[2] (skv. wikipedia)
+http://www.chromium.org/developers/how-tos/get-the-code
+
+Vim
+GPL leyfi
+http://www.vim.org/sources.php
+
+clang
+University of Illinois/NCSA Open Source License[1]
+http://llvm.org/releases/download.html
 
 ## 5. Unnið með Git (2. hluti)
 
