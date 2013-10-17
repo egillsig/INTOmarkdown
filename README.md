@@ -23,9 +23,8 @@ Jörundur: Gekk mjög vel. Installaði fyrst Oracle virtual box og þaðan var a
 
 ## 3. Unnið með Git (1. hluti)
 
-Vel gekk að forka og gera breytingar. Við bættum við frábærum eiginleikum í forritið.
+Vel gekk að forka og gera [breytingar](https://github.com/egillsig/INTOPrufa). Við bættum við frábærum eiginleikum í forritið.
 
-[a link](https://github.com/egillsig/INTOPrufa)
 
 ## 4. Uppsettur hugbúnaður
 
