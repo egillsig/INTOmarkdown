@@ -28,6 +28,16 @@ Vel gekk að forka og gera [breytingar](https://github.com/egillsig/INTOPrufa). 
 
 ## 4. Uppsettur hugbúnaður
 
+Jörundur: 
+
+VLC, General Public License , http://www.videolan.org/vlc/download-sources.html
+
+Mozilla Firefox, Mozilla Public License, https://developer.mozilla.org/en-US/docs/Developer_Guide/Source_Code/Mercurial
+
+Chromium, BSD license, MIT License, LGPL, MS-PL and MPL/GPL/LGPL tri-licensed code, plus unlicensed files
+http://www.chromium.org/developers/how-tos/get-the-code
+
+
 Egill:
 
 Chromium 
