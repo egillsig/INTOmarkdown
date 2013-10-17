@@ -1,12 +1,19 @@
 #Open Source
 
 Jón Freysteinn Jónsson
+
 Egill Sigurðarson
+
 Jörundur Jörundsson
 
 ## 1. Linux uppsetning
 
 Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
+
+![Mynd Jon]()
+![Mynd Egill](http://imgur.com/Y0vGAOw)
+![Mynd Jorundur]()
+
 
 ## 2. Uppsetning á vim && git
 
