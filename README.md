@@ -17,13 +17,15 @@ Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið i
 
 ## 2. Uppsetning á vim && git
 
-Lýsið hvernig gekk að setja upp þessi tól.
+Egill: var með bæði fyrir
+Jón: Gekk mjög vel, notaði vmware á Windows 8 til að setja upp linux og þaðan var fáfengilegt að setja upp hugbúnað í gegnum skel.
+Jörundur: Gekk mjög vel. Installaði fyrst Oracle virtual box og þaðan var afgangurinn leikur einn.
 
 ## 3. Unnið með Git (1. hluti)
 
-Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
+Vel gekk að forka og gera breytingar. Við bættum við frábærum eiginleikum í forritið.
 
-Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
+[a link](https://github.com/egillsig/INTOPrufa)
 
 ## 4. Uppsettur hugbúnaður
 
