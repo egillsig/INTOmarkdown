@@ -1,6 +1,8 @@
 #Open Source
 
-Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
+Jón Freysteinn Jónsson
+Egill Sigurðarson
+Jörundur Jörundsson
 
 ## 1. Linux uppsetning
 
@@ -31,6 +33,14 @@ http://www.vim.org/sources.php
 Clang
 University of Illinois/NCSA Open Source License
 http://llvm.org/releases/download.html
+
+Jón:
+
+MacVim, Charityware license, https://github.com/b4winckler/macvim
+
+VLC, General Public License , http://www.videolan.org/vlc/download-sources.html
+
+Mozilla Firefox, Mozilla Public License, https://developer.mozilla.org/en-US/docs/Developer_Guide/Source_Code/Mercurial
 
 ## 5. Unnið með Git (2. hluti)
 
