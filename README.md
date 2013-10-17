@@ -16,9 +16,11 @@ Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið i
 
 ## 2. Uppsetning á vim && git
 
-Egill: var með bæði fyrir
-Jón: Gekk mjög vel, notaði vmware á Windows 8 til að setja upp linux og þaðan var fáfengilegt að setja upp hugbúnað í gegnum skel.
-Jörundur: Gekk mjög vel. Installaði fyrst Oracle virtual box og þaðan var afgangurinn leikur einn.
+Egill: var með bæði fyrir.
+
+Jón: Gekk mjög vel, notaði VMware á Windows 8 til að setja upp linux og þaðan var fáfengilegt að setja upp hugbúnað í gegnum terminal með lýsingunni sem gefin var í verkefninu.
+
+Jörundur: Gekk mjög vel. Installaði fyrst Oracle virtual box og svo Ubuntu virtual image sem var opnað með Virtual Box og afgangurinn leikur einn.
 
 ## 3. Unnið með Git (1. hluti)
 
