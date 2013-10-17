@@ -12,7 +12,7 @@ Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið i
 
 ![Mynd Jon]()
 ![Mynd Egill](http://i.imgur.com/Y0vGAOw.jpg?1)
-![Mynd Jorundur]()
+![Mynd Jorundur](/Hand-in/Screenshot.png)
 
 
 ## 2. Uppsetning á vim && git
