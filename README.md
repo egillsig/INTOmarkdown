@@ -10,7 +10,6 @@ Jörundur Jörundsson
 
 Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
 
-![Mynd Jon]()
 ![Mynd Egill](http://i.imgur.com/Y0vGAOw.jpg?1)
 ![Mynd Jorundur](/Hand-in/Screenshot.png)
 
